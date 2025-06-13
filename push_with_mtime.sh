@@ -1,8 +1,8 @@
 cd "/Users/tak/Desktop/DevFiles/algostudy"
 
 # Git 초기화 (필요 시)
-git init
-git remote add origin https://github.com/RoundTable02/algorithm.git
+#git init
+#git remote add origin https://github.com/RoundTable02/algorithm.git
 
 # Git user 설정 (잔디 반영을 위해 이메일 맞춰주세요)
 git config user.name "rountable02"
