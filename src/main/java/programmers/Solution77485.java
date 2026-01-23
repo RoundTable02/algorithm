@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.*;
 
-class Solution {
+class Solution77485 {
     int[][] arr;
 
     public int[] solution(int rows, int columns, int[][] queries) {
