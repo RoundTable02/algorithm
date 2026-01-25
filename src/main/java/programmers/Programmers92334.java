@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.*;
 
-class Programmers92334 {
+class Solution92334 {
     public int[] solution(String[] id_list, String[] report, int k) {
         Map<String, Set<String>> map = new HashMap<>();
         Map<String, Integer> reporter = new HashMap<>();
